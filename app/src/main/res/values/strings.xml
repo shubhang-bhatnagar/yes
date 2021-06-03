@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragmentssss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dunk">dunk</string>
+    <string name="basketball">BASKETBALL</string>
+    <string name="free_throw">free throw</string>
+    <string name="a_free_shot_given_to_a_player_after_a_foul_or_a_technical_foul_the_player_shoots_from_the_15_foot_free_throw_line_while_the_rest_of_the_players_line_up_along_the_outside_of_the_key">A free shot given to a player after a foul or a technical foul. The player shoots from the 15-foot free throw line while the rest of the players line up along the outside of the key.</string>
+    <string name="this_penalty_which_results_in_a_turnover_occurs_when_a_player_dribbles_the_ball_with_both_hands_it_also_occurs_when_a_player_dribbles_stops_dribbling_and_then_begins_to_dribble_again">This penalty, which results in a turnover, occurs when a player dribbles the ball with both hands. It also occurs when a player dribbles, stops dribbling, and then begins to dribble again.</string>
+    <string name="dribble">Dribble</string>
+</resources>

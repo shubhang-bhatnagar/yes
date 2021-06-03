@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragment2"
+    android:background="#E6E442D5">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:textColor="#300371"
+        android:text="@string/a_free_shot_given_to_a_player_after_a_foul_or_a_technical_foul_the_player_shoots_from_the_15_foot_free_throw_line_while_the_rest_of_the_players_line_up_along_the_outside_of_the_key"
+        android:textSize="30sp"
+        android:id="@+id/tt"
+        />
+
+</FrameLayout>
